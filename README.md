@@ -1,6 +1,8 @@
 ## Dashboard-web-app-with-Streamlit-and-Python
+<a href="https://dashboard-web-app.streamlit.app/"><img src="https://img.shields.io/badge/VISIT THE DASHBOARD-%23FF5151.svg?style=for-the-badge&logo=streamlit&logoColor=white" width="240"/></a>
 
 <h2>Project overview</h2>
+
 https://github.com/user-attachments/assets/0dd5d96d-21fc-423d-8c67-736d877b8541
 
 This repository contains a project focused on building an interactive data science web application using Streamlit in Python. The application loads, explores, visualizes, and interacts with a large dataset, generating a dashboard with minimal code.
